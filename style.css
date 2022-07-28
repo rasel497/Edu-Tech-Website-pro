@@ -28,3 +28,24 @@
     padding-bottom: 260px;
 }
 */
+/*--------Students Feedback--------*/
+
+.s-card {
+    width: 50px;
+    height: 30px;
+}
+
+/*--------footer--------*/
+
+.social-icon {
+    text-align: center;
+    font-size: 30px;
+}
+
+h4 {
+    color: #FFFFFF;
+}
+
+.facebook:hover {
+    color: floralwhite;
+}
