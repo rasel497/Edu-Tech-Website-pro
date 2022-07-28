@@ -1,0 +1,30 @@
+/* 
+.carousel-item {
+    height: 40rem;
+    background-color: #777;
+    position: relative;
+    border-radius: 10px;
+    background-position: center;
+    background-size: cover;
+}
+
+.carousel-item::before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    border-radius: 10px;
+    background: #000;
+    opacity: 0.5;
+}
+
+.carousel-slider {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding-bottom: 260px;
+}
+*/
